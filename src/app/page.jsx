@@ -5,11 +5,7 @@ export default function Home() {
     <>
       <h1>HOME PAGE</h1>
 
-      <div>
-        <Link href="/produtos/tenis">TÊNIS</Link> | 
-        <Link href="/produtos/produto/tenis-preto">TÊNIS PRETO</Link> |
-        <Link href="/produtos/produto/camisa-xadrez">CAMISA-X</Link>
-      </div>
+      
 
     </>
   )
